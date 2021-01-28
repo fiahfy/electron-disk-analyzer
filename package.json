@@ -34,7 +34,7 @@
     "@types/debounce": "^1.2.0",
     "@types/node": "^12.12.47",
     "cross-env": "^7.0.2",
-    "electron": "^8.3.3",
+    "electron": "^9.4.0",
     "electron-builder": "^22.8.0",
     "eslint": "^7.6.0",
     "husky": "^4.2.5",
